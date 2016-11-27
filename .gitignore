@@ -5,6 +5,8 @@
 
 # Object files
 *.o
+!cpu_xenoncat/Linux/asm/equihash_avx*.o
+
 *.ko
 *.obj
 *.elf
